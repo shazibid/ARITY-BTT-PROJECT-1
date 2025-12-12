@@ -19,8 +19,8 @@
 ---
 
 ## 👩🏽‍💻 **Setup and Installation**
-1. Install the following prerequisites:
-a. `Python 3.8+`
+1. Install the following prerequisites:\
+a. `Python 3.8+`\
 b. `Git`
 
 2. Clone the repo
@@ -80,7 +80,6 @@ b. `Git`
 ## 📈 **Results & Key Findings**
 * 96% accuracy score with random forest modeling
 
-**Potential visualizations to include:**
 <img width="444" height="203" alt="Screenshot 2025-12-10 at 2 31 18 PM" src="https://github.com/user-attachments/assets/46d62f87-3148-4423-b503-cca30ffe8f07" />
 <img width="458" height="213" alt="Screenshot 2025-12-10 at 2 31 35 PM" src="https://github.com/user-attachments/assets/55ffa1ed-24de-4ec0-ae12-34c5dff12fff" />
 <img width="466" height="207" alt="Screenshot 2025-12-10 at 2 31 48 PM" src="https://github.com/user-attachments/assets/d7447d91-90d5-4d4b-a9aa-6d09cdd60eb0" />
